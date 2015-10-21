@@ -25,6 +25,6 @@
     <integer name="ddl_recordset_id">21958</integer>
     <integer name="ddl_structure_id">21957</integer>
     <string name="title_activity_beacon_receiver">BeaconReceiver</string>
-    <string name="title_activity_ble">BLEActivity</string>
+    <string name="title_activity_beacon_service">BeaconService</string>
 
 </resources>
